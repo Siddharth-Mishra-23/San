@@ -1,0 +1,1 @@
+A Python-based AI voice assistant that executes system commands, opens folders, browses the internet (e.g., YouTube, Google), tells the time, and engages in basic conversation. It utilizes SpeechRecognition for voice input, pyttsx3 for text-to-speech, and Webbrowser for online searches, providing a seamless interactive experience.
